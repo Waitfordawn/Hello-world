@@ -1,3 +1,3 @@
 # Hello-world
 test
-I'm a college tudent from China.
+I'm a college student from China.
